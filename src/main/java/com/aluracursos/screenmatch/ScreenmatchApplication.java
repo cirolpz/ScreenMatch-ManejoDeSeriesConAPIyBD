@@ -23,5 +23,4 @@ public class ScreenmatchApplication implements CommandLineRunner {
 /*		EjemploStreams ejemploStreams = new EjemploStreams();
 		ejemploStreams.muestraEjemplo();*/
 	}
-
 }

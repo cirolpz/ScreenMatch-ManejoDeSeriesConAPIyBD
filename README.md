@@ -34,11 +34,10 @@ Asegúrate de tener una variable de entorno API_KEY_SERIES configurada con tu cl
 
 Construir el proyecto:
 bash
-Copiar código
 mvn clean install
 Ejecutar la aplicación:
 bash
-Copiar código
+
 mvn spring-boot:run
 Uso
 Ejecuta la aplicación y sigue las opciones del menú para buscar series, episodios y gestionar tu colección.

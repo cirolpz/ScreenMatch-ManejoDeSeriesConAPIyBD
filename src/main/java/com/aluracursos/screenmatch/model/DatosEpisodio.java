@@ -13,6 +13,5 @@ public record DatosEpisodio(
         String evaluacion,
         @JsonAlias("Released")
         String fechaDeLanzamiento
-)
-        {
+        ){
 }

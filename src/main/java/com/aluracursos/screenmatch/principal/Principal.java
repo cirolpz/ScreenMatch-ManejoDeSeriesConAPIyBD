@@ -105,7 +105,6 @@ public class Principal {
                     temporadas.add(datosTemporada);
                 }
                 temporadas.forEach(System.out::println);
-
             List<Episodio> episodios = temporadas.stream()
                     .flatMap(t -> t.episodios().stream()
                             .map(d -> new Episodio(t.numero(), d)))

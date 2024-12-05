@@ -10,5 +10,5 @@ public record DatosTemporadas(
         Integer numero,
         @JsonAlias("Episodes")
         List<DatosEpisodio> episodios
-) {
+        ){
 }

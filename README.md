@@ -1,5 +1,8 @@
 # ScreenMatch
-
+![Captura de pantalla 2024-12-06 202333](https://github.com/user-attachments/assets/ffbb3511-23f7-4a47-ac3a-28aa456483a3)
+![Captura de pantalla 2024-12-06 202255](https://github.com/user-attachments/assets/2f6144cd-b63d-423b-9681-1aa8329b1c2a)
+- https://youtu.be/OMiMnBaMZz0
+  
 **ScreenMatch** es una aplicación basada en Java que permite a los usuarios buscar series de TV y episodios, obtener información detallada y gestionar una colección de series. La aplicación utiliza **Spring Boot** y **Maven** para la gestión de dependencias y compilaciones.
 
 ## Características
